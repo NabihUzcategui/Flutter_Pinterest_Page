@@ -1,6 +1,6 @@
 # pinterest_page
 
-![Pinterest-page](https://user-images.githubusercontent.com/99839506/225505142-43897518-fed8-4780-8781-21ce4dd5bbd5.jpeg)
+![pinterest page](https://user-images.githubusercontent.com/99839506/225508003-689ce99c-e2fa-4c58-81b6-86449e335872.jpg)
 
 A new Flutter project.
 
